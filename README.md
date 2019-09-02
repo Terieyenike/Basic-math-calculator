@@ -4,6 +4,7 @@ Build for a simple calculator - CcHUB Graduate Programme 2019- (Creators).
 
 Primarily, this calculator can help in your daily task such as basic maths operations and even find percentages.
 
+![Calculator app](./img/calculator.png)
 
 # Getting Started
 
